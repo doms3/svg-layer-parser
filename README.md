@@ -1,4 +1,4 @@
-##Multi-layer SVG Separator
+#Multi-layer SVG Separator
 
 # Installation 
 
